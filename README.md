@@ -154,7 +154,6 @@ CREATE TABLE borrow_records (
 | Member registration | ![Register](screenshots/register.png) |
 | Book browse / member dashboard | ![Browse books](screenshots/browse-books.png) |
 | Admin dashboard | ![Admin dashboard](screenshots/admin-dashboard.png) |
-| MySQL datastore | ![Datastore](screenshots/datastore.png) |
 
 ## 🔑 Default Credentials
 
